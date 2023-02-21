@@ -1,5 +1,6 @@
 # Robotic-Fire-Alarm-Safety-System
-# No.3 https://proteusresearch.org/Volume-11-Issue-6-2020/
+## No.3 https://proteusresearch.org/Volume-11-Issue-6-2020/
+## https://aegaeum.com/index.php/volume-7-issue-1-2019/
 Android based Robotic Fire Alert System to Save Fire VictimsM. A. Majed1, Ambreen Fatema 2, S. M. A Muneer Mogni3Associate Prof. 1 Assistant Prof.2 , Scholar3Dept of ECE 1 and EIE 1, 2 ,
 Deccan College of Engineering and Technology, Hyderabad, India.
 smamuneermogni@gmail.com
